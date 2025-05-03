@@ -41,4 +41,12 @@ env/
 # Test coverage
 .coverage
 htmlcov/
-.pytest_cache/ 
+.pytest_cache/
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# Docker
+.docker/
+docker-compose.override.yml 
